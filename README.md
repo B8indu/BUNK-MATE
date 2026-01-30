@@ -1,16 +1,21 @@
 Bunk-Mate: Mobile App
+
 Are you tired of missing out on activities or simply wanting to take a day off from college? The Bunk Mate app is here to help! It allows you to effortlessly track your attendance while keeping you informed about the remaining classes needed to meet your attendance requirements.
 
 Installation
+
 To get started, simply download the latest release of the app from this link and install it on your device!
 
 Building from Source
+
 To build the APK from source code:
 
 flutter build apk --release --no-tree-shake-icons
+
 Note: The --no-tree-shake-icons flag is required due to a Flutter build issue with icon tree shaking in the current version.
 
 How to Use Bunk Mate
+
 Maximize your experience with the Attendance Tracker app by following these steps:
 
 1. Create an Account
